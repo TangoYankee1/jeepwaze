@@ -1,0 +1,1 @@
+{\n  "name": "Development Container",\n  "image": "mcr.microsoft.com/vscode/devcontainers/python:3.10",\n  "features": {\n    "python": {\n      "version": "3.10"\n    }\n  },\n  "settings": {\n    "python.pythonPath": "/usr/local/bin/python"\n  },\n  "workspaceFolder": "/workspace"\n}
