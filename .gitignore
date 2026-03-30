@@ -1,0 +1,22 @@
+# Firebase
+.firebase
+firebase.json
+.firebaserc
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Dependencies
+/node_modules
+
+# Build files
+/build
+/dist
+
+# Other
+.DS_Store
+npm-debug.log*
